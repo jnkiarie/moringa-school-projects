@@ -1,0 +1,8 @@
+.focus{
+    color: red;
+    font: italic;
+}
+
+.unfocused{
+    color: blue;
+}
