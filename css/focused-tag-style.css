@@ -1,6 +1,6 @@
 .focus{
     color: red;
-    font: italic;
+    font-style: italic;
 }
 
 .unfocused{
